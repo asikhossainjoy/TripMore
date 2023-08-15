@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/TripMore/app/src/main/res/layout/activity_animation_payment.xml" value="0.16620370370370371" />
+        <entry key="..\:/TripMore/app/src/main/res/layout/activity_bkash.xml" value="0.2" />
+        <entry key="..\:/TripMore/app/src/main/res/layout/activity_card.xml" value="0.264" />
+        <entry key="..\:/TripMore/app/src/main/res/layout/activity_details.xml" value="0.536" />
+        <entry key="..\:/TripMore/app/src/main/res/layout/activity_details1.xml" value="0.25416666666666665" />
+        <entry key="..\:/TripMore/app/src/main/res/layout/activity_details2.xml" value="0.264" />
+        <entry key="..\:/TripMore/app/src/main/res/layout/activity_details3.xml" value="0.2" />
+        <entry key="..\:/TripMore/app/src/main/res/layout/activity_details4.xml" value="0.22592592592592592" />
+        <entry key="..\:/TripMore/app/src/main/res/layout/activity_details5.xml" value="0.16" />
+        <entry key="..\:/TripMore/app/src/main/res/layout/activity_details6.xml" value="0.22592592592592592" />
+        <entry key="..\:/TripMore/app/src/main/res/layout/activity_explore.xml" value="0.21203703703703702" />
+        <entry key="..\:/TripMore/app/src/main/res/layout/activity_home.xml" value="0.22043386983904828" />
+        <entry key="..\:/TripMore/app/src/main/res/layout/activity_login.xml" value="0.17708333333333334" />
+        <entry key="..\:/TripMore/app/src/main/res/layout/activity_myplan.xml" value="0.264" />
+        <entry key="..\:/TripMore/app/src/main/res/layout/activity_nagad.xml" value="0.21203703703703702" />
+        <entry key="..\:/TripMore/app/src/main/res/layout/activity_payment.xml" value="0.21203703703703702" />
+        <entry key="..\:/TripMore/app/src/main/res/layout/activity_payment_animation.xml" value="0.16620370370370371" />
+        <entry key="..\:/TripMore/app/src/main/res/layout/activity_profile.xml" value="0.125" />
+        <entry key="..\:/TripMore/app/src/main/res/layout/activity_signup_animation.xml" value="0.16620370370370371" />
+        <entry key="..\:/TripMore/app/src/main/res/layout/recents_row_item.xml" value="0.22592592592592592" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

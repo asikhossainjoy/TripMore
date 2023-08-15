@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "451396694644",
+    "firebase_url": "https://tripmore-e73ae-default-rtdb.firebaseio.com",
+    "project_id": "tripmore-e73ae",
+    "storage_bucket": "tripmore-e73ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451396694644:android:c4c9394ae19ac3e6a89721",
+        "android_client_info": {
+          "package_name": "com.example.tripmore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451396694644-n9pebapklld25uo6sndoh16ljigjn82p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNXdcvzUahkUlXEpcFKERTZIJ0bmPDftg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451396694644-n9pebapklld25uo6sndoh16ljigjn82p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
